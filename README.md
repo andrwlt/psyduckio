@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Psyduck, who has superpower and a waterproof head
+- 👀 I’m interested in cryptocurrency, blockchain and decentralization
+- 🌱 I’m currently learning Rust, Substrate and Polkadot
+- 📫 How to reach me me@psyduck.io
+- Or you can find more detail about me in https://psyduck.io
