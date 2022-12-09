@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Psyduck, who has superpower and a waterproof head
+- 👋 Hi, I’m Andrew Le, founder and tech lead of [AtScale Technologies](https://atscale.xyz)
 - 👀 I’m interested in cryptocurrency, blockchain and decentralization
-- 🌱 I’m currently learning Rust, Substrate and Polkadot
-- 📫 How to reach me me@psyduck.io
-- Or you can find more detail about me in https://psyduck.io
+- 🌱 I’m currently working at [AtScale Technologies](https://atscale.xyz) to build [Libra](https://golibra.xyz) 
+- 📫 Contact me via andrew@atscale.xyz
